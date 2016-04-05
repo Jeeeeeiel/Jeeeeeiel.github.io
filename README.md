@@ -1,2 +1,2 @@
 # Jeeeeeiel.github.io
-First step to my personal blog.
+The first step to my personal blog.
